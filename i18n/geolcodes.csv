@@ -2386,3 +2386,8 @@
 25000310,"fill101",,"Packer",,"packer",,"packer",,"packer",,,,
 25000311,"fill101",,"anderes",,"autre",,"altro",,"other ",,,,
 25000312,"fill101",,"keine Angaben",,"sans indication",,"senza indicazioni",,"not specified",,,,
+30000015,"gradation",,"sehr gut sortiert",,"très bien trié",,"molto ben classato",,"very well-sorted"
+30000016,"gradation",,"gut sortiert",,"bien trié",,"ben classato",,"well sorted"
+30000017,"gradation",,"mässig sortiert",,"moyennement trié",,"moderatamente classato",,"moderately sorted"
+30000018,"gradation",,"schlecht sortiert",,"mal trié",,"mal classato",,"poorly sorted"
+30000019,"gradation",,"sehr schlecht sortiert",,"très mal trié",,"molto mal classato",,"very poorly sorted"
