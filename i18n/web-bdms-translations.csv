@@ -248,7 +248,7 @@
 "qt_location","+/- Koordinaten [m]","+/- coordonnées [m]","+/- Coordinate [m]","+/- Coordinates [m]"
 "qt_top_bedrock","+/- Top Fels MD [m]","+/- Toit du rocher MD [m]","+/- top del substrato roccioso MD [m]","+/- Top bedrock MD [m]"
 "reference_elevation","Referenz Ansatzhöhe [m.ü.M.]","Référence altitudinale [msl]","Riferimento della quota [m slm]","Reference elevation [masl]"
-"reference_elevation_qt","+/- Referenz Ansatzhöhe [m]","+/- Référence altitudinale [m]","+/- riferimento della quota [m]","+/- Reference Elevation [m]"
+"reference_elevation_qt","+/- Referenz Ansatzhöhe [m]","+/- Référence altitudinale [m]","+/- riferimento della quota [m]","+/- Reference elevation [m]"
 "reference_elevation_type","Referenz Ansatzhöhe Typ","Type référence altitudinale","Tipo di riferimento della quota","Reference elevation type"
 "refresh","Aktualisieren","Actualiser","Attualizzare","Refresh"
 "reject","Ablehnen","Refuser","Rifiutare","Reject"
