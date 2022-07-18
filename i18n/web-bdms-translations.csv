@@ -1,320 +1,322 @@
-"identifier","de","fr","it","en",,
-"version","1.0.0","1.0.0","1.0.0","1.0.0",,
-"add","Hinzufügen","Ajouter","Aggiungi","Add",,
-"addInstrument","Instrument hinzufügen","Ajouter un instrument","Aggiungi uno strumento","Add instrument",,
-"address","Addresse","Adresse","Indirizzo","Address",,
-"admin","Administrator","Administrateur","Amministratore","Administrator",,
-"afterdate","von Datum","Après cette date","A partire da data","After this date",,
-"all","alle","tout","tutto","all",,
-"alls","alle","tous","tutti","all",,
-"allSelected","Alle Bohrungen ausgewählt","Tous perforations sélectionnés","Tutte le perforazioni selezionate","All boreholes selected",,
-"andzoom","...und zoomen","...et zoomer","...e ingrandisci","...and zoom",,
-"appearance","Erscheinungsbild","Aspect","Aspetto","Appearance",,
-"appearanceBigMap","Große Karte","Grande carte","Mappa grande","Big Map",,
-"appearanceFull","Vollständig","Complet","Completo","Full",,
-"appearanceListDetailsMap","Liste | Details & Karte","Liste | Détails & Carte","Lista | Dettagli & Mappa","List | Details & Map",,
-"appearanceListMapDetails","Liste & Karte | Details","Liste & Carte | Détails","Lista & Mappa | Dettagli","List & Map | Details",,
-"appearanceMapDetailsList","Karte | Details & Liste ","Carte | Détails & Liste","Mappa | Dettagli & Lista","Map | Details & List",,
-"appearanceMapListDetails","Karte & Liste | Details","Carte & Liste | Détails","Mappa & Lista | Dettagli","Map & List | Details",,
-"attachments","Anhänge","Pièces jointes","Allegati","Attachments",,
-"author","Autor","Auteur","Author","Autore",,
-"back_to_list","Zurück zur Liste","Retour à la liste","Torna alla lista","back to list",,
-"background","Hintergrund","Arrière-plan","Sfondo","Background",,
-"beforedate","bis Datum","Avant cette date","Fino a data","Before this date",,
-"borehole","Bohrung","Perforation","Perforazione","Borehole",,
-"borehole_identifier","Kennung","Identifiant","Identificatore","Identifier",,
-"borehole_identifier_value","Code","Code","Codice","Code",,
-"boreholeidentifiers","Bohrungskennung","Identificateurs de forage","Identificatori perforazione","Borehole identifiers",,
-"boreholes","Bohrungen","Perforations","perforazioni","boreholes",,
-"boreholestatus","Status Bohrloch","Etat de forage","Stato del sondaggio","Status of borehole",,
-"bulkEditing","Bulk-Editing","Édition en gros","Modifica in blocco","Bulk editing",,
-"cancel","Abbrechen","Annuler","annulla","cancel",,
-"canton","Kanton","Canton","Cantone","Canton",,
-"casing","Verrohrung","Tubage","Tubatura","Casing",,
-"casingId","ID","ID","ID","ID",,
-"casingName","Name der Verrohrung","Nom du tubage","Nome della tubatura","Name of completion",,
-"centerselected","Auf Auswahl zentrieren","Centre sélectionné","Centra selezionato","Center to selected",,
-"chro_str_top_bedrock","Chronostrati Top Fels","Chronostrates du substrat supérieur","Chronostrati top substrato","Chronostrati top bedrock",,
-"city","Gemeinde","Ville","Città","City",,
-"clickLayer","Klicken Sie für Informationen","Cliquez sur un calque pour plus d'informations","Clic su un layer per le informazioni","Click on a layer for details",,
-"close","Schlissen","Fermer","Chiudi","Close",,
-"collapse","Zuklappen","Réduire","collassare","collapse",,
-"completion","Ausbau","Aménagement","Completamento","Completion",,
-"confirm","Bestätigen","Confirmer","Conferma","Confirm",,
-"copy","Kopie erstellen","Créer une copie","Crea copia","Copy selected",,
-"create","Erstellen","Créer","Crea","Create",,
-"creationdate","Erstellungsdatum","Date de création","Data di creazione","Creation date",,
-"creator","Erstellt von","Créé par","Creato da","Created by",,
-"createdBy","Erstellt von","Créé par","Creato da","Created by",,
-"currentVersion","Aktuelle Version","Version actuelle","Versione corrente","Current version",,
-"importedBy","Importiert von","Importé par","Importato da","Imported by",,
-"updatedBy","Aktualisiert durch","Mis à jour par","Aggiornato da","Updated by",,
-"csvFormat","Dateiformat (.csv)","Format CSV","Formato CSV","Comma-Separated Values (CSV) format",,
-"cuttings","Schnitt","Cut","Taglio","Cuttings",,
-"date","Datum","Date","Data","Date",,
-"dateSpudCasing","Bohrbeginn","Date de début du forage","Data di inizio della perforazione","Spud date",,
-"dateFinishCasing","Ausbau Ende","Date de fin de l'aménagement","Data fine lavori","Finish date",,
-"dateAbandonmentCasing","Stillegung","Date de l'abandon","Data di abbandono","Date abandonment",,
-"degree","Grad","Degrés","gradi","degree",,
-"delete","Löschen","Supprimer","Elimina","Delete",,
-"deleteForever","Dauerhaft löschen","Supprimer définitivement","Elimina definitivamente","Delete forever",,
-"deletelayer","Bestehende Schicht löschen","Supprimer cette couche","Elimina questo livello","Just delete this layer",,
-"deletelayerconfirmation","Sie löschen diese Schicht. Wie wollen Sie fortfahren?","Vous êtes sur le point de supprimer ce niveau, comment voulez-vous procéder?","Stai per eliminare questo livello, come vuoi procedere?","You are about to delete this level, how do you want to procede?",,
-"deleting","{{what}} löschen","Suppression {{what}}","Eliminazione {{what}}","Deleting {{what}}",,
-"description","Beschreibung","Description","Descrizione","Description",,
-"details","Einzelheiten","Détails","Dettagli","Details",,
-"disable","Deaktivieren","Désactiver","disabilitare","disable",,
-"disabled","Deaktiviert","Désactivé","disabilitato","disabled",,
-"disableWorkgroup","Arbeitsgruppe deaktivieren","désactiver le groupe de travail","disabilita gruppo di lavoro","disable workgroup",,
-"disabling","{{what}} deaktivieren","Désactiver {{quoi}}","Disabilitazione {{what}}","Disabling {{what}}",,
-"done","Ok","Fini","Fatto","Done",,
-"draft","Entwurf","projet","bozza","draft",,
-"drilldiameter","Bohrdurchmesser (mm)","Diamètre de perforation (mm)","Diametro perforazione (mm)","Drill diameter (mm)",,
-"drilling_date","Bohrende Datum","Date de fin de forage","Data fine perforazione","Drill end date",,
-"drillingmethod","Bohrmethode","Méthodologie de forage","Metodologia di perforazione","Drilling method",,
-"duplicate","Doppelter Wert: neuen Wert setzen.","Dupliquer la valeur, attribuer une autre valeur.","Valore duplicato: assegnare un altro valore.","Duplicated value: assign a new value.",,
-"editingEnabled","Die Bearbeitung hat begonnen","Le changement a commencé","Modifica avviata","Editing started",,
-"editingStart","Bearbeitung beginnen","Commencer l'édition","Inizia modifica","Start editing",,
-"editingStop","Bearbeitung beenden","Arrêtez l'édition","Interrompi modifica","Stop editing",,
-"elevationCasing","Ansatzhöhe Verrohrung","Altitude du tubage","Altezza della cima dell’involucro","Completion elevation",,
-"elevation_z","Ansatzhöhe (müM)","Altitude (msl)","Altitudine (msl)","Elevation (masl)",,
-"enable","Aktivieren","Activer","abilitare","enable",,
-"enabled","Aktiviert","Activé","abilitati","enabled",,
-"enableWorkgroup","Arbeitsgruppe aktivieren","activer le groupe de travail","abilitare gruppo di lavoro","enable workgroup",,
-"enabling","{{what}} aktivieren","Activer {{what}}","Abilitazione {{what}}","Enabling {{what}}",,
-"english","english","anglais","inglese","english",,
-"errorAttention","Achtung","Attention","Attention","Attention",,
-"errorGap","Schichttiefen sind nicht kontinuierlich","Les Niveaux de séquence ne continuent pas","Sequenza layers non continua","Non continuos data found",,
-"errorGapSolution1","Lücke mit ""nicht definierter Schicht"" füllen","Remplir le vide avec un calque non défini","Riempi il vuoto con un layer di tipo indefinito","Fill gap with ""undefined"" layer",,
-"errorGapSolution2","Basis der oberen Schicht mit Top der unteren Schicht ersetzen","Remplacez la couche supérieure par le haut de la couche inférieure","Sostituisci la base del layer superiore con la cima del layer inferiore","Replace upper layer base with top from lower layer",,
-"errorGapSolution3","Top der unteren Schicht mit o Metern ersetzen","Remplacer le haut de la couche inférieure par 0m","Sostituisci la cima del layer inferiore con 0m","Replace lower layer top with 0 meters",,
-"errorGapSolution4","Top der unteren Schicht mit der Basis der oberen Schicht ersetzen","Remplacer le haut de la couche inférieure par la basede niveau supérieure","Sostituisci la cima del layer inferiore con la base del layer superiore","Replace lower layer top with base from upper layer",,
-"errorHowToResolve","Wie soll dieser Fehler behoben werden?","Comment résoudre ce problème?","Come risolvere questo problema?","How to resolve this issue?",,
-"errorLocked","Bohrung durch den {{user}} gesperrt","Modification en cours de l'utilisateur ""{{user}}""","Modifica in corso da parte di ""{{user}}""","Borehole locked by {{user}}",,
-"errorMissingBedrock","Tiefe Top Fels fehlt!","Roche manquante","Bedrock mancante","Missing bedrock",,
-"errorMissingBedrockSolution","Tiefe Top Fels automatisch aus der Bohrdaten-Seite übernehmen.","Crée automatiquement le substrat rocheux à partir des données saisiessur la page de forage.","Crea automaticamente il bedrock attingendo dai dati inseriti nella pagina del sondaggio.","Add the Bedrock automatically from data filled into the Borehole page.",,
-"errorMissingLayer","Fehlende Schicht","Niveaux manquantes","Layers mancanti","Missing layers",,
-"errorMissingLayerSolution","Bitte Schichten zwischen Geländeoberfläche und Top Fels (unten) ergänzen","S'il vous plaît remplir l'espace entre la surface et le substrat rocheuxajout de nouveaux calques","Per favore riempire lo spazio tra la superficie e il bedrock aggiungendo nuovi layers","Please fill the space between the surface and the bedrock (below) adding new layers",,
-"errorMoreerror","{{number}} Fehler gefunden","{{number}} erreurs constatées","{{number}} errori trovati","{{number}} errors found",,
-"errorOneerror","Ein Fehler gefunden","Une erreur constatée","Un errore trovato","One error found",,
-"errorOverlap","Überlappende Schichten","Calques superposés","Sovrapposizione layers","Overlapping layers",,
-"errorEndPoint","Sie sollten den Endpunkt hinzufügen","Vous devriez ajouter le point final","Dovresti aggiungere il punto di arrivo","You should add end point",,
-"errorStartEditing","Sie sollten die Schaltfläche ""Bearbeitung beginnen"" drücken","Vous devez appuyer sur le bouton: Commencer l’édition","Dovresti premere il pulsante di iniziare la modifica","You should press start editing button",,
-"errrorStartPoint","Sie sollten den Startpunkt hinzufügen","Vous devriez ajouter le point de départ","Dovresti aggiungere il punto di partenza","You should add start point",,
-"errorStartWrong","Erste Schicht beginnt nicht an der Geländeoberfläche","La première couche ne part pas de la surface","Il primo layer non inizia dalla superficie","First layer not starting from the surface",,
-"errorWrongDepth","Falsche Endtiefe","Mauvaise profondeur","Profondità errata","Wrong depth",,
-"errorWrongDepthSolution1","Tiefe der letzten Schicht ({{lDepth}} m) stimmt nicht mit der Endtiefe ({{bDepth}}) überein. Ändern Sie das Feld Basis-MD manuell.","La profondeur de la dernière couche ({{lDepth}}m) ne coïncide pas aveccomme indiqué dans les métadonnées de forage ({{bDepth}}m). Modifiez manuellement le champ Base MD.","La profondità dell'ultimo layer ({{lDepth}}) non coincide con quanto dichiarato nei metadati sul sondaggio ({{bDepth}}). Modifica manualmente il campo Base MD.","Last layer depth ({{lDepth}}) not equals to total borehole depth {{bDepth}}. Manually change the Base MD field.",,
-"expand","Aufklappen","Expand","espandere","expand",,
-"export","Exportieren","Exporter","Esporta","Export",,
-"exportInProgress","Export in Bearbeitung","Exportation en cours","Esportazione in corso","Export in progress",,
-"extendlower","Untere Schicht zum Top ausdehnen","Étendre la couche inférieure jusqu'au sommet","Estendi livello inferiore in alto","Extend lower layer to top",,
-"extendupper","Obere Schicht nach unten ausdehnen","Étendre la couche supérieure à la couche inférieure","Estendi livello superiore in basso","Extend upper layer to bottom",,
-"filling","Hinterfüllung","Remblayage","Riempimento","Backfill",,
-"filterByHierarchicalUnits","Nach hierarchischen Einheiten filtern","Filtrer par unité (hiérarchique)","Filtra per unità (gerarchicamente)","Filter by hierarchical units",,
-"filterbymap","Mit Karteausschinitt filtern","Filtre avec la carte","Filtra da mappa","Filter by map",,
-"filterByName","Nach Name filtern","Filtrer par nom","Filtra per nome","Filter by name",,
-"firstname","Vorname","Prenom","Nome","Firstname",,
-"flowPublication","Publikations-Workflow","Flux de publication","Flusso di pubblicazione","Publication workflow",,
-"flowPublicationStatus","Status der Veröffentlichung","État de la publication","Stato della pubblicazione","Publication status",,
-"flowRestart","Neustart des Flusses","Redémarrer le flux","Riavviare il flusso di lavoro","Restart the workflow",,
-"french","französisch","français","francese","french",,
-"from","von","De","da","from",,
-"fromMeters","von [m]","de [m]","da [m]","from [m]",,
-"fromdepth","von Tiefe","De la profondeur","dalla profondità","from depth",,
-"fromdiameter","von Durchmesser","À partir du diamètre","da diametro","From diameter",,
-"fromelevation","von Hohe","De l'altitude","Da elevazione","From elevation",,
-"german","deutsch","allemand","tedesco","german",,
-"groundwater","Grundwasser","Eau souterraine","Groundwater","Groundwater",,
-"header_borehole","Bohrloch Editor","Éditeur de forage","Editor sondaggi","Borehole editor",,
-"header_check","In Bearbeitung","Pente","Pendenze","Pending",,
-"header_editordesc","Erstellen und ändern","Créer ou modifier","Crea o modifica","Create or modify",,
-"header_explore","Durchsuchen","Explorer","Esplora","Explore",,
-"header_hide_map","Karte ausblenden","Cacher la carte","Nascondi la mappa","Hide map",,
-"header_language","Sprache","Langue","Lingua","Language",,
-"header_settingdesc","Aktualizieren sie ihre Einstellungen","Mettre à jour vos préférences","Aggiorna le impostazioni","Update your preferences",,
-"header_settings","Einstellungen","Paramètres","Impostazioni","Settings",,
-"header_user_preferences","Benutzereinstellungen","Préférences de l'utilisateur","Preferenze utente","User preferences",,
-"header_validation","Validieren","Publication","Pubblicazione","Publish",,
-"header_view_preferences","Ansicht","Afficher","Visualizzazione","View",,
-"header_viewerdesc","Suchen und anzeigen","Recherche et affichage","Cerca e visualizza","Search and display",,
-"hidden","Versteckt","Caché","Nascosto","Hidden",,
-"hideHistory","Geschichte ausblenden","Cacher l'histoire","Nascondi la storia","Hide history",,
-"hrs","HRS","HRS","HRS","HRS",,
-"iagree","Ich stimme zu","J'accepte","Accetto","I agree",,
-"identifierManager","Kennung verwalten","Gérer les identifiants","Gestione degli identificatori","Manage identifiers",,
-"importedData","Importierte Daten","Données importées","Dati importati","Imported data",,
-"inclination","Inklination (°)","Inclinaison (°)","Inclinazione (°)","Inclination (°)",,
-"inclinationdirection","Einfallsrichtung (°)","Direction d'inclinaison(°)","Direzione inclinazione (°)","Inclination direction (°)",,
-"instrument","Instrumentierung","Instrumentation","Strumentazione","Instrumentation",,
-"instrumentId","ID","ID","ID","ID",,
-"invertedDepth","Umgekehrte Tiefen","Profondeurs inversées","Profondità invertite","Inverted depths",,
-"inProgress","in Bearbeitung","en cours","in corso","in progress",,
-"italian","italienisch","italien","italiano","italian",,
-"kind","Bohrtyp","Type de forage","Tipologia di perforazione","Drilling type",,
-"kindCasing","Ausbautyp","Type d'aménagement","Tipologia involucro","Completion type",,
-"kindCasingLayer","Rohrtyp","Type de tubage","Tipo tubatura","Casing type",,
-"kindFilling","Hinterfüllungstyp","Type de remblayage","Tipo di riempimento","Type of backfill",,
-"kindInstrument","Instrumentierungstyp","Type d'instrument","Tipo di strumento","Type of instrument",,
-"landuse","Landnutzung","Utilisation du sol","Uso del suolo","Land use",,
-"lastExport","Hier ist die letzte Export","Voici la dernière exportation","Ecco l'ultima esportazione","Here the last export",,
-"lastname","Nachname","Nom de famille","Cognome","Lastname",,
-"layer_alteration","Alteration","Modification","Alterazione","Alteration",,
-"layer_chronostratigraphy","Chronostratigrafie","Chrono-stratigraphie","Chrono-stratigrafia","Chrono-stratigraphie",,
-"layer_cohesion","Kohäsion","Cohésion","Coesione","Cohesion",,
-"layer_color","Farbe","Couleur","Colore","Color",,
-"layer_compactness","Lagerungsdichte","Compact","Compattezza","Compactness",,
-"layer_consistance","Konsistenz","Cohérence","Consistenza","Consistance",,
-"layer_creation_fetch","Bereite neue Schicht vor..","Créer un nouveau niveau ..","Creazione di un nuovo livello..","Preparing a new layer..",,
-"layer_debris","Grobbestandteile","Débris","Debris","Debris",,
-"layer_depth","Bohrendtiefe","Profondeur","Profondità","Depth",,
-"layer_depth_from","Top MD (m)","Top MD (m)","Top MD (m)","Top MD (m)",,
-"layer_depth_to","Basis MD (m)","Base MD (m)","Base MD (m)","Base MD (m)",,
-"layer_further_properties","Weitere Eigenschaften","Autres paramètres","Altri parametri","Further properties",,
-"layer_geology","Geologische Beschreibung","Description géologique","Descrizione geologia","Geology description",,
-"layer_grain_granularity","Kornrundung","Corniness du blé","Angolosità del grano","Grain angularity",,
-"layer_grain_shape","Kornform","Forme du blé","Forma del grano","Grain shape",,
-"layer_grain_size_1","Korngrösse 1","Taille de grain 1","Grandezza grano 1","Grain size 1",,
-"layer_grain_size_2","Korngrösse 2","Taille de grain 2","Grandezza grano 2","Grain size 2",,
-"layer_humidity","Feuchtigkeit","Humidité","Umidità","Humidity",,
-"layer_last","Bohrlochende","Fin de forage","Fine del sondaggio","End of borehole",,
-"layer_lit_pet_deb","Litho/Petro Grobbestandteile","Débris de Litho / Petro","Litho/Petro debris","Litho/Petro debris",,
-"layer_lithology","Lithologie / Petrologie","Lithologie / Pétrologie","Litologia / Petrologia","Lithology / Petrology",,
-"layer_lithostratigraphy","Lithostratigrafie","Litho-stratigraphie","Litho-stratigrafia","Litho-stratigraphy",,
-"layer_loading_fetch","Lade Schicht..","Niveaux de chargement en cours ..","Caricamento livelli in corso..","Loading an existing layer..",,
-"layer_notes","Anmerkungen","Notes","Notes","Notes",,
-"layer_organic_component","Organische Komponenten","Composants organiques","Componenti organici","Organic components",,
-"layer_plasticity","Plastizität","Plasticité","Plasticità","Plasticity",,
-"layer_qt_description","QC Beschreibung","Qualité de description","Qualità descrizione","QC description",,
-"layer_striae","Striemung","Striae","Striae","Striae",,
-"layer_tectonic_unit","Tektonische Einheit","Unités tectoniques","Unità tettoniche","Tectonic Unit",,
-"layer_uscs_1","USCS 1","USCS 1","USCS 1","USCS 1",,
-"layer_uscs_2","USCS 2","USCS 2","USCS 2","USCS 2",,
-"layer_uscs_3","USCS 3","USCS 3","USCS 3","USCS 3",,
-"layer_uscs_determination","USCS Bestimmung","Détermination USCS","USCS determinazione","USCS determination",,
-"layer_uscs_original","USCS Original","Original USCS","USCS originale","USCS original",,
-"layerdepth","Bohrendtiefe","Profondeur","Profondità","Depth",,
-"layerdepthfrom","Top MD (m)","Top MD (m)","Top MD (m)","Top MD (m)",,
-"layerdepthto","Basis MD (m)","Base MD (m)","Base MD (m)","Base MD (m)",,
-"lit_pet_top_bedrock","Lit/Pet Top Fels","Substrat Top Lit / Pet ","Lit/Pet Top substrato","Lit/Pet Top bedrock",,
-"lit_str_top_bedrock","Litstrati Top Fels","Litstrati top substrato","Litstrati top substrato","Litstrati top bedrock",,
-"load","Laden","Charger","Carica","Load",,
-"location","Standort","Position","Posizione","Location",,
-"location_x","Koordinate O","East Coordinate","Coordinata Est","Coordinate East",,
-"location_y","Koordinate N","North Coordinate","Coordinata Nord","Coordinate North",,
-"locked_at","Gesperrt am","Verrouillé","Bloccato il","Locked at",,
-"locked_by","Änderung in Bearbeitung von","Changements en cours de","Modifiche in corso da parte di","Change in progress by",,
-"locked_status","Status","État ","Stato","Status",,
-"loginScreen","Login-Bildschirm","Écran de connexion","Schermata di login","Login screen",,
-"mainStratigraphy","Dies ist die Hauptstratigraphie","Ceci est la stratigraphie principale","Questa è la stratigrafia principale","This is the main stratigraphy",,
-"map","Karte","Carte","Mappa","Map",,
-"materialCasingLayer","Material","Matériau","Materiale","Material",,
-"materialFilling","Material","Matériau","Materiale","Material",,
-"meter","Meter","Mètres","metri","meter",,
-"msgCasingEmpty","Für ein Verrohrungsprofil bitte das Plus-Symbol oben rechts klicken","Pour un profil de tubage veuillez cliquer sur le symbole plus dans le coin supérieur gauche","Per aggiungere la tubatura cliccate il pulsante con il simbolo più in alto a sinistra","For a casing profile please click the plus symbol at the top left",,
-"msgDeleteUser","Der ausgewählte Benutzer kann für immer gelöscht werden, da derzeit keine Aktivitäten in der Datenbank vorhanden sind.","L'utilisateur sélectionné peut être supprimé par toujours parce qu'il n'y a aucune trace pour le moment d'activité dans la base de données.","L'utente selezionato può essere eliminato per sempre perché al momento non esiste alcuna traccia di attività nel database.","The selected user can be deleted forever because currently there is not any trace of activity in the database.",,
-"msgDeleteWorkgroup","Die ausgewählte Arbeitsgruppe kann für immer gelöscht werden, da derzeit keine Aktivitäten in der Datenbank vorhanden sind.","Depuis, il n'y a aucune trace d'activité dans la base de données, le groupe de travail sélectionné peutêtre éliminé pour toujours.","Visto che al momento non ci sono tracce di attività nel database, il gruppo di lavoro selezionato, può essere eliminato per sempre.","The selected workgroup can be deleted forever because currently there are not any traces of activities in the database.",,
-"msgDeletingUserTip","Der Benutzer wird aus der Datenbank gelöscht","l'utilisateur sera supprimé de la base de données"," mais dans Le même utilisateur peut être recréé à nouveau.","l'utente verrà eliminato dal database"," ma in seguito sarà possibile ricreare nuovamente lo stesso utente.""","the user will be deleted from the database, but later you will be able to recreate the same user again."
-"msgDeletingWorkgroupTip","Die Arbeitsgruppe wird dauerhaft aus der Datenbank gelöscht","le groupe de travail sera définitivement supprimé de la base de données","il gruppo di lavoro verrà eliminato definitivamente dal database","The workgroup will be permanently deleted from the database",,
-"msgDisablingUser","Der ausgewählte Benutzer kann nicht gelöscht werden, da sich derzeit einige Aktivitäten in der Datenbank befinden.","L'utilisateur sélectionné ne peut pas être supprimé parce que pour le moment il y a des traces d'activité dans la base de données.","L'utente selezionato non può essere eliminato perché al momento ci sono sue tracce di attività nel database.","The selected user can not be deleted because currently there are some traces of activities in the database.",,
-"msgDisablingWorkgroup","Die ausgewählte Arbeitsgruppe kann nicht gelöscht werden, da sich derzeit einige Aktivitäten in der Datenbank befinden.","Le groupe de travail sélectionné ne peut pas être supprimé parce qu'il y a pour le moment certaines de ses traces d'activité dans la base de données.","Il gruppo di lavoro selezionato non può essere eliminato perché al momento ci sono alcune sue tracce di attività nel database.","The selected workgroup can not be deleted because currently there are some traces of activities in the database.",,
-"msgDisclaimer_publish_title","Haftungsausschluss veröffentlichen","Publier les conditions de service","Pubblica i termini","Publish disclaimer",,
-"msgEnablingUser","Der Benutzer ""{{user}}"" wird wieder aktiviert. Dieser Benutzer kann sich dann wieder anmelden und Änderungen basierend auf seinen Rollen vornehmen.","Vous êtes sur le point de réactiver ""{{user}}"". Cet utilisateur pourra se connecter et appliquez les modifications en fonction de vos rôles.","Stai per riattivare l'utente ""{{user}}"". Questo utente sarà in grado di accedere e applicare le modifiche in base ai suoi ruoli.","You are going to re-enable the user ""{{user}}"". This user will be able to login and apply modifications based on its roles. ",,
-"msgEnablingWorkgroup","Die Arbeitsgruppe ""{{workgroup}}"" wird wieder aktiviert. Benutzer, die zu dieser Arbeitsgruppe gehören, können Änderungen basierend auf ihren Rollen vornehmen.","Vous réactiverez le groupe de travail ""{{workgroup}}"".Utilisateurs appartenant à ce groupe de travailpeut appliquer les modifications en fonction de leurs rôles.","Riattiverai il gruppo di lavoro ""{{workgroup}}"". Gli utenti appartenenti a questo gruppo di lavoro potranno applicare le modifiche in base ai loro ruoli.","You are going to reenable the ""{{workgroup}}"" workgroup. Users belonging to this workgroup will be able to apply again modifications based on theirs roles.",,
-"msgFillingEmpty","Kein Rohr verfügbar","Aucun remplissage disponible","Nessun riempimento disponibile","No filling available",,
-"msgIdentifierAlreadyUsed","Identifikator bereits vergeben.","Identifiant déjà utilisé","identificatore già in uso","Identifier already used",,
-"msgIdentifierDeletionAlreadyUsed","Identifikator kann nicht im Gebrauch gelöscht werden","Ne peut pas supprimer l'identifiant en cours d'utilisation","Non puoi cancellare l'identificatore in uso","Connot delete in use identifier",,
-"msgInstrumentsEmpty","Instrumente sind mit Rohren verbunden: keine Rohre verfügbar","Les instruments sont associés à des tubages : aucun tubage disponible","Gli strumenti sono associati alle tubazioni: nessuna tubazione disponibile","Instruments are associated with casings: no casings available",,
-"msgReenablingTip","Sie können ihn später wieder aktivieren.","tu pourras le réactiver plus tard","sarai in grado di riattivarlo in seguito","you will be able to re-enable it later.",,
-"msgStartigraphyEmpty","Keine Stratigraphie verfügbar","Aucune stratigraphie disponible","Nessuna stratigrafia disponibile","No stratigraphy available",,
-"municipality","Gemeinde","Municipalité","Comune","Municipality",,
-"name","Name","Nome","Nome","Name",,
-"new","Neue {{what}}","Neuf {{what}}","Nuovo {{what}}","New {{what}}",,
-"newBorehole","Neue Bohrung","Nouveau forage","Nuova perforazione","New borehole",,
-"no","Nein","Non","No","No",,
-"noComments","Keine Kommentare","Pas de commentaires","Nessun commento","No comments",,
-"nothingToShow","Nichts zu zeigen","Rien à montrer","Niente da mostrare","Nothing to show",,
-"np","Keine Angabe","Inconnu","Sconosciuto","Unknown",,
-"oneSelected","Ein Bohrung ausgewählt","un perforation sélectionné","Una perforazione selezionata","One borehole selected",,
-"original_name","Originalname","Nom original","Nome originario","Original name",,
-"overlay","Dargestellte Karten","Cartes affichées","Mappe visualizzate","Maps displayed",,
-"password","Passwort","Mot de passe","Password","Password",,
-"preview","Vorschau","preview","anteprima","preview",,
-"previousVersions","Frühere Versionen","Versions précédentes","Versioni precedenti","Previous versions",,
-"project_name","Projektname","Nom du projet","Nome progetto","Project name",,
-"public","Öffentlich","Public","Pubblico","Public",,
-"public_name","Öffentlicher Name","Nom public","Nome pubblico","Public name",,
-"publication","Veröffentlichung","Publication","Pubblicazione","Publication",,
-"publish","Veröffentlichen","publier","pubblica","publish",,
-"purpose","Bohrzweck","Objet","Scopo","Purpose",,
-"qt_bore_inc_dir","QC Inc. / Richtung","Qualité Inclin./Direction ","Qualità Inclin. / Direz.","QC Inclin. / Direction",,
-"qt_elevation","QC Ansatz Z","Qualité d'élévation","Qualità elevazione","CQ Elevation Z",,
-"qt_length","QC Tiefe","Qualité de profondeur","Qualità profondità","QC depth",,
-"qt_location","CQ Koordinaten","Qualité coordonnée","Qualità coordinate","CQ Coordinates",,
-"qt_top_bedrock","QC Top Fels","Substrat supérieur QC","QC top substrato","QC top bedrock",,
-"refElevationCasing","Referenz Ansatzhöhe","Référence d'altitude","Referenza altitudine","Reference elevation",,
-"refresh","Aktualisieren","Charge","ricarica","refresh",,
-"reject","Ablehnen","Rejeter","Rifiuta","Reject",,
-"rejected","Abgelehnt","Rejeté","Respinto","Rejected",,
-"remarks","Bemerkungen","Observations","Osservazioni","Remarks",,
-"reset","Zurücksetzen","Reset","azzerare","reset",,
-"resources","Dokumentation","Ressources","Risorse","Resources",,
-"restriction","Beschränkung","Restreint","Restrizione","Restriction",,
-"restriction_until","Datum Beschränkung","Date de restriction","Data restrizione","Restriction date",,
-"result","Ergebnis","Résultat","risultato","result",,
-"results","Ergebnisse","Résultats","risultati","results",,
-"role","Rolle","Rôle","ruolo","role",,
-"roles","Rollen","Rôles","ruoli","roles",,
-"save","Speichern","enregistrer","salva","save",,
-"saving","Speichern","Enregistrement","salvataggio","saving",,
-"search","Suchen","Recherche","cerca","search",,
-"searchfilters","Suchfilter","Filtres de recherche","Filtri di ricerca","Search filters",,
-"searchFiltersBoreholes","Suchfilter von borehole","Filtres du forage","Filtri specifici alla perforazione","Borehole's filters",,
-"searchFiltersLayers","Stratigraphie-Schicht filter","Filtres de la couche stratigraphique","Filtri di ricerca dei livelli della stratigrafia","Stratigraphy layers search filters",,
-"setmanually","Manuell einstellen","Régler manuellement","Impostare manualmente","Set manually",,
-"show","{{what}} anzeigen","Afficher {{what}}","Mostra {{what}}","show {{what}}",,
-"showAll","Alle anzeigen","Afficher tous les instruments","Mostra tutti","Show all",,
-"showallfields","Alle Felder anzeigen","afficher tous les champs","Mostra tutti i campi","show all fields",,
-"showHistory","Geschichte anzeigen","Montrer l'histoire","Mostra la storia","Show history",,
-"someSelected","{{howMany}} Bohrungen ausgewählt","{{howMany}} perforations sélectionnés","{{howMany}} perforazioni selezionate","{{howMany}} boreholes selected",,
-"srs","SRS","SRS","SRS","SRS",,
-"start","Diese Seite ist auf Deutsch.","Cette page est en italien","Questa pagina è in Italiano","This page is in English.",,
-"status","status","status","stato","status",,
-"statuscomplete","fertiggestellt","Terminé","Completato","Completed",,
-"statuscontrol","wissenschaftlich geprüft","Contrôle scientifique","Controllo scientifico","Scientific check",,
-"statusInstrument","Status des Geräts","Statut de l'instrument","Stoto dello strumento","Status of the instrument",,
-"statusedit","in Bearbeitung","Changement","Modifica","Change in progress",,
-"statuspublic","veröffentlicht","Publiquer","Pubblica","Publish",,
-"statusvalid","validiert","Validation","Validazione","Validation",,
-"stratigraphy","Stratigrafie","Startigrafia","Stratigrafia","Stratigraphy",,
-"stratigraphy_name","Name / Version","Nom / Version","Nome / Versione","Name / Version",,
-"stratigraphyfields","Stratigraphiefelder","Champs stratigraphiques","Campi della stratigrafia","Stratigraphy form fields",,
-"submit","Weiterleiten","Appliquer","Applica","Submit",,
-"submitted","Vorgelegt","Soumis","Inviato","Submitted",,
-"sure","Sind Sie sicher?","Êtes-vous sûr?","Sei sicuro?","Are you sure?",,
-"terms","Nutzungsbedingungen","Conditions de service","Termini di servizio","Terms of service",,
-"title","BDMS","BMS","BMS","BMS",,
-"toMeters","bis [m]","à [m]","a [m]","to [m]",,
-"todepth","bis Tiefe","Jusqu'à la profondeur","alla profondità","to depth",,
-"todiameter","bis Durchmesser","Jusqu'au diamètre","a diametro","To diameter",,
-"toelevation","bis Hohe","Jusqu'à l'altitude","A elevazione","To elevation",,
-"top_bedrock","Top Fels (m)","Substrat supérieur (m)","Top substrato (m)","Top bedrock (m)",,
-"totaldepth","Gesamttiefe (m)","Profondeur totale (m)","Profondità totale (m)","Total depth (m)",,
-"type","Typ","Typologie","Tipo","Type",,
-"updateDate","Bearbeitungsdatum","Date de mise à jour","Data di aggiornamento","Update date",,
-"createDate","Erstellungsdatum","Date de création","Data di creazione","Creation date",,
-"importDate","Importdatum","Date d'importation","Data di importazione","Import date",,
-"upload","Hochladen","Télécharger","Carica","Upload",,
-"uploaded","Hochgeladen","Téléchargé","caricamento","Uploaded",,
-"uploadFile","Wählen Sie eine Datei (*.csv) aus","Sélectionnez le fichier CSV à télécharger","Seleziona il file CSV da caricare","Select the CSV file to upload",,
-"uploadNewFile","Hochladen einer neuen Datei","Télécharger un nouveau fichier","Caricare un nuovo file","Upload a new file",,
-"user","Benutzer","Utilisateur","utente","user",,
-"username","Benutzername","Nom d'utilisateur","Nome utente","Username",,
-"usersMap","Karten für Benutzer","Cartes des utilisateurs","Mappe dell'utente","User's maps",,
-"viewas","Ansicht als","Voir comme","Visualizza come","View as",,
-"visibility","Visibilität","Visibilité","Visibilità","Visibility",,
-"visible","Sichtbar","Visible","Visibile","Visible",,
-"workgroup","Arbeitsgruppe","Groupe de travail","Gruppo di Lavoro","workgroup",,
-"supplier","Anbieter","Fournisseur","Fornitore","Supplier",,
-"yes","Ja","oui","Sì","Yes",,
-"you","Du","tu","te","you",,
-"yourcomments","Ihre Kommentare","Vos commentaires","Commenti","Your comments",,
+"identifier","de","fr","it","en"
+"version","1.0.0","1.0.0","1.0.0","1.0.0"
+"add","Hinzufügen","Ajouter","Aggiungere","Add"
+"addInstrument","Instrument hinzufügen","Ajouter un instrument","Aggiungere uno strumento","Add instrument"
+"admin","Administrator","Administrateur","Amministratore","Administrator"
+"afterdate","von Datum","à partir de cette date","a partire da quest data","after this date"
+"all","alle","tout","tutto","all"
+"alls","alle","tous","tutti","all"
+"allSelected","alle Bohrungen ausgewählt","tous les forages sélectionnés","tutte le perforazioni selezionate","all boreholes selected"
+"alternate_name","Alternativer Name","Nom alternatif","Nome alternativo","Alternate name"
+"andzoom","...und zoomen","...et zoomer","...e ingrandire","...and zoom"
+"appearance","Erscheinungsbild","Mode de présentation","Aspetto","Appearance"
+"appearanceBigMap","Große Karte","Grande carte","Mappa grande","Large Map"
+"appearanceFull","Vollständig","Complet","Completo","Full"
+"appearanceListDetailsMap","Liste | Details & Karte","Liste | Détails & Carte","Lista | Dettagli & Mappa","List | Details & Map"
+"appearanceListMapDetails","Liste & Karte | Details","Liste & Carte | Détails","Lista & Mappa | Dettagli","List & Map | Details"
+"appearanceMapDetailsList","Karte | Details & Liste ","Carte | Détails & Liste","Mappa | Dettagli & Lista","Map | Details & List"
+"appearanceMapListDetails","Karte & Liste | Details","Carte & Liste | Détails","Mappa & Lista | Dettagli","Map & List | Details"
+"attachments","Anhänge","Annexes","Allegati","Attachments"
+"back_to_list","Zurück zur Liste","Retour à la liste","Torna alla lista","Go back to list"
+"background","Hintergrund","Arrière-plan","Sfondo","Background"
+"beforedate","bis Datum","jusqu'à cette date","fino a questa data","before this date"
+"borehole","Bohrung","forage","Perforazione","Borehole"
+"borehole_identifier","Identifikator","Identifiant","Identificatore","Identifier"
+"borehole_identifier_value","Code","Code","Codice","Code"
+"boreholeidentifiers","Bohrungsidentifikator","Identifiant de forage","Identificatore di perforazione","Borehole identifier"
+"boreholes","Bohrungen","forages","Perforazioni","Boreholes"
+"boreholestatus","Bohrungs Status","Statut du forage","Stato della perforazione","Borehole Status"
+"bulkEditing","Mehrfachbearbeitung","Édition en bloc","Modifica in blocco","Bulk editing"
+"cancel","Abbrechen","Annuler","Annulla","Cancel"
+"canton","Kanton","Canton","Cantone","Canton"
+"casing","Verrohrung","Tubage","Tubazione","Casing"
+"casing_inner_diameter","Verrohrung Innendurchmesser [mm]","Diamètre intérieur du tubage [mm]","Diametro interno della tubatura [mm]","Casing inner diameter [mm]"
+"casing_outer_diameter","Verrohrung Aussendurchmesser [mm]","Diamètre extérieur du tubage [mm]","Diametro esterno della tubatura [mm]","Casing outer diameter [mm]"
+"casingId","Verrohrungs ID","Tubage ID","Tubazione ID","Casing ID"
+"casingName","Name der Verrohrung","Nom du tubage","Nome della tubazione","Name of casing"
+"centerselected","auf Auswahl zentrieren","centrer sur la sélection","centra sulla selezione","center to selected"
+"chronostratigraphy_top_bedrock","Chronostratigraphie Top Fels","Chronostratigraphie du toit du rocher","Cronostratigrafia del substrato roccioso","Chronostratigraphy top bedrock"
+"city","Stadt /Gemeinde","Ville/Commune","Città/Comune","City/Municipality"
+"clickLayer","Klicken Sie für mehr Informationen","Cliquez pour plus d'informations","Cliccare per ulteriori informazioni","Click on a layer for more details"
+"close","Schliessen","Fermer","Chiudere","Close"
+"collapse","Minimieren","Réduire","Minimizzare","Collapse"
+"completion","Ausbau","Aménagement","Installazione","Completion"
+"confirm","Bestätigen","Confirmer","Confermare","Confirm"
+"copy","Kopie erstellen","Créer une copie","Creare una copia","Create a copy"
+"create","Erstellen","Créer","Creare","Create"
+"createDate","Erstellungsdatum","Date de création","Data di creazione","Creation date"
+"createdBy","Erstellt von","Créé par","Creato da","Created by"
+"creationdate","Erstellungsdatum","Date de création","Data di creazione","Creation date"
+"csvFormat","Dateiformat CSV","Format CSV","Formato CSV","CSV format"
+"currentVersion","Aktuelle Version","Version actuelle","Versione corrente","Current version"
+"cuttings","Bohrgut","Matériel de forage (cuttings/carotte)","Detriti di perforazione generati dallo scalpello (cuttings/carota)","Borehole cuttings/core"
+"date","Datum","Date","Data","Date"
+"dateAbandonmentCasing","Stillegung Datum","Date de l'abandon","Data di abbandono","Abandonment date"
+"dateFinishCasing","Ausbau Ende Datum","Date de fin de l'aménagement","Data della fine dell'installazione","Completion finish date"
+"dateSpudCasing","Ausbau Beginn Datum","Date de début de l'aménagement","Data di inizio dell'installazione","Completion start date"
+"degree","Grad","Degrés","Gradi","Degrees"
+"delete","Löschen","Supprimer","Elimina","Delete"
+"deleteForever","Dauerhaft löschen","Supprimer définitivement","Elimina definitivamente","Delete permanently"
+"deletelayer","Bestehende Schicht löschen","Supprimer cette couche","Elimina questo livello","Delete this layer"
+"deletelayerconfirmation","Sie löschen diese Schicht. Wie wollen Sie fortfahren?","Vous êtes sur le point de supprimer cette couche, comment voulez-vous procéder?","Stai per eliminare questo livello, come vuoi procedere?","You are about to delete this layer, how do you want to procede?"
+"deleting","{{what}} löschen","Suppression de {{what}}","Eliminazione {{what}}","Deleting {{what}}"
+"details","Einzelheiten","Détails","Dettagli","Details"
+"disable","Deaktivieren","Désactiver","Disattivare","Disable"
+"disabled","Deaktiviert","Désactivé","Disattivato","Disabled"
+"disableWorkgroup","Arbeitsgruppe deaktivieren","Désactiver le groupe de travail","Disattivare gruppo di lavoro","Disable workgroup"
+"disabling","{{what}} deaktivieren","Désactiver {{quoi}}","Disattivazione {{what}}","Disabling {{what}}"
+"done","Ok","OK","OK","Done"
+"draft","Entwurf","Ébauche","Bozza","Draft"
+"drill_diameter","Bohrdurchmesser [mm]","Diamètre de forage [mm]","Diametro perforazione [mm]","Drill diameter [mm]"
+"drilling_end_date","Bohrende Datum","Date de fin de forage","Data fine di perforazione","Drill end date"
+"drilling_method","Bohrmethode","Méthode de forage","Metodo di perforazione","Drilling method"
+"duplicate","Doppelter Wert: neuen Wert setzen.","Valeur à double, attribuer une autre valeur.","Valore duplicato: assegnare un altro valore.","Duplicated value: assign a new value."
+"editingEnabled","Die Bearbeitung hat begonnen","L'édition a commencé","Modifica avviata","Editing started"
+"editingStart","Bearbeitung beginnen","Commencer l'édition","Inizia modifica","Start editing"
+"editingStop","Bearbeitung beenden","Arrêtez l'édition","Interrompi modifica","Stop editing"
+"elevation_z","Ansatzhöhe OKT [m.ü.M.]","Altitude du niveau du terrain [msl]","Quota livello del terreno [m slm]","Terrain elevation [masl]"
+"elevationCasing","Ansatzhöhe Verrohrung","Altitude du tubage","Altezza della cima dell’involucro","Completion elevation"
+"enable","Aktivieren","Activer","Attivare","Enable"
+"enabled","Aktiviert","Activé","Attivato","Enabled"
+"enableWorkgroup","Arbeitsgruppe aktivieren","Activer le groupe de travail","Attivare il gruppo di lavoro","Enable workgroup"
+"enabling","{{what}} aktivieren","Activer {{what}}","Attivare {{what}}","Enabling {{what}}"
+"english","English","Anglais","Inglese","English"
+"errorAttention","Achtung","Attention","Attenzione","Attention"
+"errorEndPoint","Sie sollten den Endpunkt hinzufügen","Vous devriez ajouter le point final","Dovresti aggiungere il punto di arrivo","You should add end point"
+"errorGap","Es gibt eine Lücke im Schichtverzeichnis","Il y a une lacune dans la succession des couches","C'è una lacuna nella sequenza degli strati","There is an undefined interval in the sequence"
+"errorGapSolution1","Lücke mit ""nicht definierter Schicht"" füllen","Remplir le vide avec un calque non défini","Riempi il vuoto con un layer di tipo indefinito","Fill gap with ""undefined"" layer"
+"errorGapSolution2","Basis der oberen Schicht mit Top der unteren Schicht ersetzen","Remplacez la couche supérieure par le haut de la couche inférieure","Sostituisci la base del layer superiore con la cima del layer inferiore","Replace upper layer base with top from lower layer"
+"errorGapSolution3","Top der unteren Schicht mit o Metern ersetzen","Remplacer le haut de la couche inférieure par 0m","Sostituisci la cima del layer inferiore con 0m","Replace lower layer top with 0 meters"
+"errorGapSolution4","Top der unteren Schicht mit der Basis der oberen Schicht ersetzen","Remplacer le haut de la couche inférieure par la basede niveau supérieure","Sostituisci la cima del layer inferiore con la base del layer superiore","Replace lower layer top with base from upper layer"
+"errorHowToResolve","Wie soll dieser Fehler behoben werden?","Comment résoudre ce problème?","Come risolvere questo problema?","How to resolve this issue?"
+"errorLocked","Bohrung durch den {{user}} gesperrt","Modification en cours de l'utilisateur ""{{user}}""","Modifica in corso da parte di ""{{user}}""","Borehole locked by {{user}}"
+"errorMissingBedrock","Tiefe Top Fels fehlt!","Roche manquante","Bedrock mancante","Missing bedrock"
+"errorMissingBedrockSolution","Tiefe Top Fels automatisch aus der Bohrdaten-Seite übernehmen.","Crée automatiquement le substrat rocheux à partir des données saisiessur la page de forage.","Crea automaticamente il bedrock attingendo dai dati inseriti nella pagina del sondaggio.","Add the Bedrock automatically from data filled into the Borehole page."
+"errorMissingLayer","Fehlende Schicht","Niveaux manquantes","Strato mancante","Missing layers"
+"errorMissingLayerSolution","Bitte Schichten zwischen Geländeoberfläche und Top Fels (unten) ergänzen","S'il vous plaît remplir l'espace entre la surface et le substrat rocheuxajout de nouveaux calques","Per favore riempire lo spazio tra la superficie e il bedrock aggiungendo nuovi layers","Please fill the space between the surface and the bedrock (below) adding new layers"
+"errorMoreerror","{{number}} Fehler gefunden","{{number}} erreurs constatées","{{number}} errori trovati","{{number}} errors found"
+"errorOneerror","Ein Fehler gefunden","Une erreur constatée","Un errore trovato","One error found"
+"errorOverlap","Überlappende Schichten","Calques superposés","Sovrapposizione layers","Overlapping layers"
+"errorStartEditing","Sie sollten die Schaltfläche ""Bearbeitung beginnen"" drücken","Vous devez appuyer sur le bouton: Commencer l’édition","Dovresti premere il pulsante di iniziare la modifica","You should press start editing button"
+"errorStartWrong","Erste Schicht beginnt nicht an der Geländeoberfläche","La première couche ne part pas de la surface","Il primo layer non inizia dalla superficie","First layer not starting from the surface"
+"errorWrongDepth","Falsche Endtiefe","Mauvaise profondeur","Profondità errata","Wrong depth"
+"errorWrongDepthSolution1","Tiefe der letzten Schicht ({{lDepth}} m) stimmt nicht mit der Endtiefe ({{bDepth}}) überein.","La profondeur de la dernière couche ({{lDepth}}m) ne coïncide pas avec la profondeur totale du forage ({{bDepth}}m).","La profondità dell'ultimo strato ({{lDepth}}) non coincide con quanto dichiarato nei metadati della perforazione ({{bDepth}}).","End depth of last layer ({{lDepth}}) does not equal the borehole end depth {{bDepth}}."
+"errrorStartPoint","Sie sollten den Startpunkt hinzufügen","Vous devriez ajouter le point de départ","Dovresti aggiungere il punto di partenza","You should add start point"
+"expand","Aufklappen","Étendre","Espandere","Expand"
+"export","Exportieren","Exporter","Esportare","Export"
+"exportInProgress","Export in Bearbeitung","Exportation en cours","Esportazione in corso","Export in progress"
+"extendlower","Untere Schicht zum Top ausdehnen","Étendre la couche inférieure jusqu'au sommet","Estendi lo strato inferiore fino alla superficie topografica","Extend lower layer to top"
+"extendupper","Obere Schicht nach unten ausdehnen","Étendre la couche supérieure à la couche inférieure","Estendere lo strato superiore verso il basso","Extend upper layer to bottom"
+"facies_description","Fazielle Beschreibung","Description du faciès géologique","Descrizione del facies geologico","Facies description"
+"filling","Hinterfüllung","Remplissage","Riempimento","Backfill"
+"filterByHierarchicalUnits","Nach hierarchischen Einheiten filtern","Filtrer par unités hiérarchiques","Filtrare per unità (gerarchicamente)","Filter by hierarchical units"
+"filterbymap","Mit Karteausschinitt filtern","Filtrer à partir de la carte","Filtrare con la mappa","Filter by map"
+"filterByName","Nach Name filtern","Filtrer par nom","Filtrare per nome","Filter by name"
+"firstname","Vorname","Prénom","Nome","Firstname"
+"flowPublication","Publikations-Workflow","Workflow de publication","Workflow di pubblicazione","Publication workflow"
+"flowPublicationStatus","Status der Veröffentlichung","Statut de la publication","Stato della pubblicazione","Publication status"
+"flowRestart","Neustart des Arbeitsablaufs","Redémarrer le workflow","Riavviare il workflow","Restart the workflow"
+"french","Französisch","Français","Francese","French"
+"from","von","de","da","from"
+"fromdepth","von Tiefe [m]","de la profondeur [m]","dalla profondità [m]","from depth [m]"
+"fromdiameter","von Durchmesser","à partir du diamètre","a partire dal diametro","from diameter"
+"fromelevation","von Höhe","de l'altitude","a partire dalla quota","from elevation"
+"fromMeters","von [m]","de [m]","da [m]","from [m]"
+"german","Deutsch","Allemand","Tedesco","German"
+"gradation","Abstufung","Gradation","Graduazione","Gradation"
+"groundwater","Grundwasser","Eau souterraine","Falda freatica","Groundwater"
+"header_borehole","Bohrloch Editor","Éditeur de forage","Editore della perforazione","Borehole editor"
+"header_check","In Bearbeitung","En cours de modification","In corso di modifica","Pending"
+"header_editordesc","Erstellen oder ändern","Créer ou modifier","Crea o modifica","Create or modify"
+"header_explore","Durchsuchen","Chercher","Esplora","Search"
+"header_hide_map","Karte ausblenden","Masquer la carte","Nascondere la mappa","Hide map"
+"header_language","Sprache","Langue","Lingua","Language"
+"header_settingdesc","Aktualizieren sie ihre Einstellungen","Mettre à jour vos préférences","Aggiornare le impostazioni","Update your preferences"
+"header_settings","Einstellungen","Paramètres","Impostazioni","Settings"
+"header_user_preferences","Benutzereinstellungen","Préférences de l'utilisateur","Preferenze utente","User preferences"
+"header_validation","Validieren","Validation","Validazione","Validate"
+"header_view_preferences","Ansicht","Visualisation","Visualizzazione","View"
+"header_viewerdesc","Suchen und anzeigen","Recherche et affichage","Cercare e visualizzare","Search and display"
+"hidden","Versteckt","Masqué","Nascosto","Hidden"
+"hideHistory","Verlauf ausblenden","Masquer l'historique","Nascondi la storia","Hide history"
+"hrs","Höhenreferenzsystem","Système altitudinal de référence","Sistema di riferimento altitudinale","Height reference system"
+"iagree","Ich stimme zu","J'accepte","Accetto","I agree"
+"identifierManager","Kennung verwalten","Gérer les identifiants","Gestione degli identificatori","Manage identifiers"
+"importDate","Importdatum","Date d'importation","Data di importazione","Import date"
+"importedBy","Importiert von","Importé par","Importato da","Imported by"
+"importedData","Importierte Daten","Données importées","Dati importati","Imported data"
+"inclination","Inklination (°)","Inclinaison (°)","Inclinazione (°)","Inclination (°)"
+"inclination_direction","Einfallsrichtung (°)","Direction d'inclinaison(°)","Direzione inclinazione (°)","Inclination direction (°)"
+"inProgress","in Bearbeitung","en cours","in corso","in progress"
+"instrument","Instrumentierung","Instrumentation","Strumentazione","Instrumentation"
+"instrumentId","Instrument ID","ID de l'instrument","Strumentazione ID","Instrument ID"
+"invertedDepth","Umgekehrte Tiefen","Profondeurs inversées","Profondità invertite","Inverted depths"
+"italian","Italienisch","Italien","Italiano","Italian"
+"kind","Bohrtyp","Type de forage","Tipologia di perforazione","Borehole type"
+"kindCasing","Ausbautyp","Type d'aménagement","Tipologia dell'installazione","Completion type"
+"kindCasingLayer","Rohrtyp","Type de tubage","Tipo di tubazione","Casing type"
+"kindFilling","Hinterfüllungstyp","Type de remplissage","Tipo di riempimento","Type of backfill"
+"kindInstrument","Instrumentierungstyp","Type d'instrument","Tipo di strumentazione","Type of instrument"
+"lastExport","Hier ist der letzte Export","Voici le dernier export","Ecco l'ultima esportazione","Herewith the last export"
+"lastname","Nachname","Nom de famille","Cognome","Surname"
+"layer_alteration","Alteration","Altération","Alterazione","Alteration"
+"layer_chronostratigraphy","Chronostratigrafie","Chronostratigraphie","Cronostratigrafia","Chronostratigraphy"
+"layer_cohesion","Kohäsion","Cohésion","Coesione","Cohesion"
+"layer_color","Farbe","Couleur","Colore","Color"
+"layer_compactness","Lagerungsdichte","Compacité","Compattezza","Compactness"
+"layer_consistance","Konsistenz","Cohérence","Consistenza","Consistancy"
+"layer_creation_fetch","Bereite neue Schicht vor..","Créer une nouvelle couche..","Creazione di un nuovo livello..","Preparing a new layer.."
+"layer_debris","Grobbestandteile","Débris grossiers","Detriti grossolani","Debris"
+"layer_depth","Schichttiefe MD [m]","Profondeur de la couche MD [m]","Profondità dello strato MD [m]","Layer depth MD [m]"
+"layer_depth_from","Top MD [m]","Top MD [m]","Top MD [m]","Top MD [m]"
+"layer_depth_to","Basis MD [m]","Base MD [m]","Base MD [m]","Base MD [m]"
+"layer_grain_granularity","Kornrundung","Arrondi des grains","Angolosità del grano","Grain angularity"
+"layer_grain_shape","Kornform","Forme des grains","Forma dei granuli","Grain shape"
+"layer_grain_size_1","Korngrösse 1","Granulométrie 1","Granulometria 1","Grain size 1"
+"layer_grain_size_2","Korngrösse 2","Granulométrie 2","Granulometria 2","Grain size 2"
+"layer_humidity","Feuchtigkeit","Humidité","Umidità","Humidity"
+"layer_last","Bohrlochende","Terminaison du forage","Fine della perforazione","End of borehole"
+"layer_lithology","Lithologie","Lithologie","Litologia","Lithology"
+"layer_lithology_top_bedrock","Lithologie Grobbestandteile","Lithologie des débris grossiers","Litologia dei detriti grossolani","Coarse component lithology"
+"layer_lithostratigraphy","Lithostratigraphie","Lithostratigraphie","Litostratigrafia","Lithostratigraphy"
+"layer_loading_fetch","Lade Schicht..","La couche est en cours de chargement..","Caricamento strati in corso..","Loading an existing layer.."
+"layer_notes","Anmerkungen","Remarques","Note","Notes"
+"layer_organic_component","Organische Komponenten","Composants organiques","Componenti organici","Organic components"
+"layer_plasticity","Plastizität","Plasticité","Plasticità","Plasticity"
+"layer_qt_description","Qualität Beschreibung","Qualité de la description","Qualità della descrizione","Quality description"
+"layer_striae","Striemung","Stries","Strie","Striations"
+"layer_tectonic_unit","Tektonische Einheit","Unités tectoniques","Unità tettoniche","Tectonic Unit"
+"layer_uscs_1","USCS 1","USCS 1","USCS 1","USCS 1"
+"layer_uscs_2","USCS 2","USCS 2","USCS 2","USCS 2"
+"layer_uscs_3","USCS 3","USCS 3","USCS 3","USCS 3"
+"layer_uscs_determination","USCS Bestimmungmethode","Méthode de détermination USCS","Metodo di determinazione USCS","USCS way of determination"
+"layer_uscs_original","USCS Originalklassification","Classification USCS originale","USCS originale","USCS original classification"
+"lithological_description","Lithologische Beschreibung","Description lithologique","Descrizione litologica","Lithological description"
+"lithology_top_bedrock","Lithologie Top Fels","Lithologie du toit du rocher","Top substrato Litologia","Lithology top bedrock"
+"lithostratigraphy_top_bedrock","Lithostratigraphie Top Fels","Lithostratigraphie du toit du rocher","Litostratigrafia del top del substrato roccioso","Lithostratigraphy top bedrock"
+"load","Laden","Charger","Caricare","Load"
+"location","Standort","Position","Posizione","Location"
+"location_x","Koordinate Ost","Coordonnée Est","Coordinata Est","Coordinate East"
+"location_y","Koordinate Nord","Coordonnée Nord","Coordinata Nord","Coordinate North"
+"locked_at","Gesperrt am","Verrouillé le","Bloccato il","Locked on"
+"locked_by","Änderung in Bearbeitung von","Changements en cours par","Modifiche in corso da parte di","Change in progress by"
+"locked_status","Status","Statut","Stato","Status"
+"loginScreen","Login-Bildschirm","Fenêtre de connexion","Schermata di login","Login screen"
+"mainStratigraphy","Dies ist die Hauptstratigraphie","Ceci est la stratigraphie principale","Questa è la stratigrafia principale","This is the main stratigraphy"
+"map","Karte","Carte","Mappa","Map"
+"materialCasingLayer","Verrohrungsmaterial","Matériau du casing","Tipo di materiale della tubatura","Casing material"
+"materialFilling","Hinerfüllungsmaterial","Matériau de remplissage","Materiale di riempimento","Backfill material"
+"meter","Meter","Mètres","Metri","Meter"
+"msgCasingEmpty","Für ein Verrohrungsprofil bitte das Plus-Symbol oben rechts klicken","Pour un profil de tubage veuillez cliquer sur le symbole dans le coin supérieur gauche","Per aggiungere la tubatura cliccare il pulsante con il simbolo in alto a sinistra","For a casing profile please click the plus symbol at the top left"
+"msgDeleteUser","Der ausgewählte Benutzer kann für immer gelöscht werden, da derzeit keine Aktivitäten in der Datenbank vorhanden sind.","L'utilisateur sélectionné peut être supprimé définitivement car il n'y a actuellement aucune activité dans la base de données.","L'utente selezionato può essere eliminato definivamente poiché al momento non esiste alcuna traccia di attività nel database.","The selected user can be deleted permanantly because currently there is no trace of activity in the database."
+"msgDeleteWorkgroup","Die ausgewählte Arbeitsgruppe kann für immer gelöscht werden, da derzeit keine Aktivitäten in der Datenbank vorhanden sind.","Le groupe de travail sélectionné peut être supprimé définitivement car il n'y a actuellement aucune activité dans la base de données.","Visto che al momento non ci sono tracce di attività nel database, il gruppo di lavoro selezionato può essere eliminato definitivamente.","The selected workgroup can be permanantly deleted because currently there are no traces of activity in the database."
+"msgDeletingUserTip","Der Benutzer wird aus der Datenbank gelöscht","L'utilisateur sera supprimé de la base de données","L'utente sarà eliminato dal database","the user will be deleted from the database"
+"msgDeletingWorkgroupTip","Die Arbeitsgruppe wird dauerhaft aus der Datenbank gelöscht","Le groupe de travail sera définitivement supprimé de la base de données","Il gruppo di lavoro verrà eliminato definitivamente dal database","The workgroup will be permanently deleted from the database"
+"msgDisablingUser","Der ausgewählte Benutzer kann nicht gelöscht werden, da sich derzeit einige Aktivitäten in der Datenbank befinden.","L'utilisateur sélectionné ne peut pas être supprimé car il y a actuellement des traces d'activité dans la base de données.","L'utente selezionato non può essere eliminato poiché al momento ci sono tracce di attività nel database.","The selected user can not be deleted because currently there are some traces of activity in the database."
+"msgDisablingWorkgroup","Die ausgewählte Arbeitsgruppe kann nicht gelöscht werden, da sich derzeit einige Aktivitäten in der Datenbank befinden.","Le groupe de travail sélectionné ne peut pas être supprimé car il y a actuellement des traces d'activité dans la base de données.","Il gruppo di lavoro selezionato non può essere eliminato poiché al momento ci sono tracce di attività nel database.","The selected workgroup can not be deleted because currently there are some traces of activity in the database."
+"msgDisclaimer_publish_title","Haftungsausschluss veröffentlichen","Publier la déclaration de non-responsabilité","Pubblicare la dichiarazione di non responsabilità","Publish disclaimer"
+"msgEnablingUser","Der Benutzer ""{{user}}"" wird wieder aktiviert. Dieser Benutzer kann sich dann wieder anmelden und Änderungen basierend auf seinen Rollen vornehmen.","Vous êtes sur le point de réactiver l'utilisateur ""{{user}}"". Cet utilisateur pourra à nouveau se connecter et faire des modifications en fonction de ses rôles.","Stai per riattivare l'utente ""{{user}}"". Questo utente sarà in grado di accedere e applicare le modifiche in base ai suoi ruoli.","You are going to re-enable the user ""{{user}}"". This user will be able to login and apply modifications based on its roles. "
+"msgEnablingWorkgroup","Die Arbeitsgruppe ""{{workgroup}}"" wird wieder aktiviert. Benutzer, die zu dieser Arbeitsgruppe gehören, können Änderungen basierend auf ihren Rollen vornehmen.","Vous êtes sur le point de réactiver le groupe de travail ""{{workgroup}}"". Les utilisateurs appartenant à ce groupe de travail pourront faire des modifications en fonction de leurs rôles.","Riattiverai il gruppo di lavoro ""{{workgroup}}"". Gli utenti appartenenti a questo gruppo di lavoro potranno applicare le modifiche in base ai loro ruoli.","You are going to reenable the workgroup ""{{workgroup}}"". Users belonging to this workgroup will be able to again apply modifications based on theirs roles."
+"msgFillingEmpty","Keine Hinterfüllung verfügbar","Aucun remplissage disponible","Nessun riempimento disponibile","No casing available"
+"msgIdentifierAlreadyUsed","Identifikator bereits vergeben","Identifiant déjà utilisé","Identificatore già in uso","Identifier already in use"
+"msgIdentifierDeletionAlreadyUsed","Identifikator wird genutzt und kann daher nicht gelöscht werden","L'identifiant ne peut pas être supprimé lorsqu'il est utilisé","Non puoi cancellare l'identificatore in uso","Connot delete identifier in use"
+"msgInstrumentsEmpty","Kein Instrument verfügbar","Aucune instrumentation disponible","Nessuna strumentazione disponibile","No instrumentation available"
+"msgReenablingTip","Sie können ihn später wieder aktivieren.","Vous pourrez le réactiver plus tard","Sarai in grado di riattivarlo in seguito","You will be able to re-enable it later."
+"msgStartigraphyEmpty","Keine Stratigraphie verfügbar","Aucune stratigraphie disponible","Nessuna stratigrafia disponibile","No stratigraphy available"
+"municipality","Gemeinde","Commune","Comune","Municipality"
+"name","Name","Nom","Nome","Name"
+"new","Neue {{what}}","Nouveau {{what}}","Nuovo {{what}}","New {{what}}"
+"newBorehole","Neue Bohrung","Nouveau forage","Nuova perforazione","New borehole"
+"no","Nein","Non","No","No"
+"noComments","Keine Kommentare","Aucun commentaire","Nessun commento","No comments"
+"nothingToShow","Nichts zu zeigen","Rien à montrer","Niente da mostrare","Nothing to display"
+"np","Keine Angabe","Inconnu","Sconosciuto","Unknown"
+"oneSelected","Ein Bohrung ausgewählt","Un forage sélectionné","Una perforazione selezionata","One borehole selected"
+"original_name","Originalname","Nom original","Nome originale","Original name"
+"overlay","Dargestellte Karten","Cartes affichées","Mappe visualizzate","Maps displayed"
+"password","Passwort","Mot de passe","Password","Password"
+"preview","Vorschau","Prévisualisation","Anteprima","Preview"
+"previousVersions","Frühere Versionen","Versions précédentes","Versioni precedenti","Previous versions"
+"project_name","Projektname","Nom du projet","Nome progetto","Project name"
+"public","Öffentlich","Public","Pubblico","Public"
+"publication","Veröffentlichung","Publication","Pubblicazione","Publication"
+"publish","Veröffentlichen","Publier","Pubblicare","Publish"
+"purpose","Bohrzweck","But du forage","Scopo della perforazione","Drilling purpose"
+"qt_bore_inc_dir"," Inc. / Richtung Genauigkeit"," Précision de inclin. / direction ","Qualità inclinazione / direzione","Inclin. / direction precission"
+"qt_depth","+/- Endteufe MD [m]","+/- profondeur MD [m]","+/- quota della profondità MD [m]","+/- Total depth MD [m]"
+"qt_elevation","+/- Ansatzhöhe OKT [m]","+/- élévation niveau du terrain [m]","+/- quota livello del terreno [m]","+/- Elevation top terrain [m]"
+"qt_location","+/- Koordinaten [m]","+/- coordonnées [m]","+/- Coordinate [m]","+/- Coordinates [m]"
+"qt_top_bedrock","+/- Top Fels MD [m]","+/- Toit du rocher MD [m]","+/- top del substrato roccioso MD [m]","+/- Top bedrock MD [m]"
+"reference_elevation","Referenz Ansatzhöhe [m.ü.M.]","Référence altitudinale [msl]","Riferimento della quota [m slm]","Reference elevation [masl]"
+"reference_elevation_qt","+/- Referenz Ansatzhöhe [m]","+/- Référence altitudinale [m]","+/- riferimento della quota [m]","+/- Reference elevation [m]"
+"reference_elevation_type","Referenz Ansatzhöhe Typ","Type référence altitudinale","Tipo di riferimento della quota","Reference elevation type"
+"refresh","Aktualisieren","Actualiser","Attualizzare","Refresh"
+"reject","Ablehnen","Refuser","Rifiutare","Reject"
+"rejected","Abgelehnt","Refusé","Respinto","Rejected"
+"remarks","Bemerkungen","Remarques","Osservazioni","Remarks"
+"reset","Zurücksetzen","Réinitialiser","Azzerare","Reset"
+"resources","Dokumentation","Documentation","Risorse","Resources"
+"restriction","Beschränkung","Restriction","Restrizione","Restriction"
+"restriction_until","Datum Ende der Beschränkung","Date fin de restriction","Data fine di restrizione","Restriction end date"
+"result","Ergebnis","Résultat","Risultato","Result"
+"results","Ergebnisse","Résultats","Risultati","Results"
+"role","Rolle","Rôle","Ruolo","Role"
+"roles","Rollen","Rôles","Ruoli","Roles"
+"save","Speichern","Enregistrer","Salvare","Save"
+"saving","Speichern","Enregistrement","Salvataggio","Saving"
+"search","Suchen","Rechercher","Ricercare","Search"
+"searchfilters","Suchfilter","Filtres de recherche","Filtri di ricerca","Search filters"
+"searchFiltersBoreholes","Suchfilter Bohrungen","Filtres par forage","Filtri specifici alla perforazione","Borehole filters"
+"searchFiltersLayers","Stratigraphie-Schicht filter","Filtres par couche stratigraphique","Filtri di ricerca della stratigrafia","Stratigraphy layer(s) filters"
+"setmanually","Manuell einstellen","Régler manuellement","Impostare manualmente","Set manually"
+"show","{{what}} anzeigen","Afficher {{what}}","Mostra {{what}}","show {{what}}"
+"showAll","Alle anzeigen","Afficher tout","Mostra tutti","Show all"
+"showallfields","Alle Felder anzeigen","Afficher tous les champs","Mostra tutti i campi","Show all fields"
+"showHistory","Verlauf anzeigen","Montrer l'historique","Mostra la storia","Show history"
+"someSelected","{{howMany}} Bohrungen ausgewählt","{{howMany}} forages sélectionnés","{{howMany}} perforazioni selezionate","{{howMany}} boreholes selected"
+"spud_date","Bohrbeginn","Date de début du forage","Data d'inizio della perforazione","Spud date"
+"srs","Räumliches Bezugssystem","Système de cordonnées","Sistema di coordinate","Spatial reference system"
+"start","Diese Seite ist auf Deutsch.","Cette page est en français","Questa pagina è in italiano","This page is in English."
+"status","Status","Statut","Stato","Status"
+"statuscomplete","Fertiggestellt","Terminé","Completato","Completed"
+"statuscontrol","Wissenschaftlich geprüft","Contrôlé scientifiquement","Controllo scientifico","Scientific check"
+"statusedit","in Bearbeitung","En cours de modification","Modificare","Change in progress"
+"statusInstrument","Status des Geräts","Statut de l'instrument","Stato della strumentazione","Instrument status"
+"statuspublic","Veröffentlicht","Publié","Pubblicare","Publish"
+"statusvalid","Validiert","Validé","Validazione","Validated"
+"stratigraphy","Stratigraphie","Stratigraphie","Stratigrafia","Stratigraphy"
+"stratigraphy_name","Name / Version","Nom / Version","Nome / Versione","Name / Version"
+"stratigraphyfields","Stratigraphiefelder","Champs stratigraphiques","Campi della stratigrafia","Stratigraphy fields"
+"submit","Weiterleiten","Soumettre","Applicare","Submit"
+"submitted","Eingereicht","Soumis","Inviato","Submitted"
+"supplier","Anbieter","Fournisseur","Fornitore","Supplier"
+"sure","Sind Sie sicher?","Êtes-vous sûr?","Ne é sicuro?","Are you sure?"
+"terms","Nutzungsbedingungen","Conditions d'utilisation","Condizioni di utilizzo","Terms of service"
+"title","BDMS","BMS","BMS","BMS"
+"todepth","bis Tiefe MD [m]","jusqu'à la profondeur MD  [m]","fino alla profondità MD [m]","to depth MD [m]"
+"todiameter","bis Durchmesser","jusqu'au diamètre","fino al diametro","to diameter"
+"toelevation","bis Höhe","jusqu'à l'altitude","fino alla quota","to elevation"
+"toMeters","bis [m]","à [m]","fino a [m]","to [m]"
+"top_bedrock","Top Fels MD [m]","Toit du rocher MD [m]","Top substrato MD [m]","Top bedrock MD [m]"
+"top_bedrock_tvd","Top Fels TVD [m]","Toit du rocher TVD [m]","Top substrato TVD [m]","Top bedrock TVD [m]"
+"top_bedrock_tvd_qt","+/- Top Fels TVD [m]","+/- Toit du rocher TVD [m]","+/- Top del substrato roccioso TVD [m]","+/- Top bedrock TVD [m]"
+"total_depth_tvd","Endteufe TVD [m]","Profondeur totale TVD [m]","Profondità totale TVD [m]","Total Depth TVD [m]"
+"total_depth_tvd_qt","+/- Endteufe TVD [m]","+/- Profondeur totale TVD [m]","+/- profondità totale TVD [m]","+/- Total depth TVD [m]"
+"totaldepth","Bohrendteufe MD [m]","Profondeur totale MD [m]","Profondità totale MD [m]","Total depth MD [m]"
+"type","Typ","Type","Tipo","Type"
+"updateDate","Bearbeitungsdatum","Date de modification","Data di aggiornamento","Update date"
+"updatedBy","Aktualisiert durch","Mis à jour par","Aggiornato da","Updated by"
+"upload","Hochladen","Télécharger","Caricare","Upload"
+"uploaded","Hochgeladen","Téléchargé","Caricamento","Uploaded"
+"uploadFile","Wählen Sie eine Datei (*.csv) aus","Sélectionnez le fichier CSV à télécharger","Seleziona il file CSV da caricare","Select a CSV file to upload"
+"uploadNewFile","Hochladen einer neuen Datei","Télécharger un nouveau fichier","Caricare un nuovo file","Upload a new file"
+"user","Benutzer","Utilisateur","Utente","User"
+"username","Benutzername","Nom d'utilisateur","Nome utente","Username"
+"usersMap","Karten für Benutzer","Cartes pour les utilisateurs","Mappe dell'utente","Maps for users"
+"viewas","Ansicht als","Aperçu en tant que","Visualizza come","View as"
+"visibility","Sichtbar","Visibilité","Visibilità","Visibility"
+"visible","Sichtbar","Visible","Visibile","Visible"
+"workgroup","Arbeitsgruppe","Groupe de travail","Gruppo di lavoro","workgroup"
+"yes","Ja","Oui","Sì","Yes"
+"you","Du","Toi","Tu","You"
+"yourcomments","Ihre Kommentare","Vos commentaires","Commenti","Your comments"
