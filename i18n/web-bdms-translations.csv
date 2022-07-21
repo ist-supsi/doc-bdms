@@ -300,7 +300,7 @@
 "top_bedrock","Top Fels MD [m]","Toit du rocher MD [m]","Top substrato MD [m]","Top bedrock MD [m]"
 "top_bedrock_tvd","Top Fels TVD [m]","Toit du rocher TVD [m]","Top substrato TVD [m]","Top bedrock TVD [m]"
 "top_bedrock_tvd_qt","+/- Top Fels TVD [m]","+/- Toit du rocher TVD [m]","+/- Top del substrato roccioso TVD [m]","+/- Top bedrock TVD [m]"
-"total_depth_tvd","Endteufe TVD [m]","Profondeur totale TVD [m]","Profondità totale TVD [m]","Total Depth TVD [m]"
+"total_depth_tvd","Endteufe TVD [m]","Profondeur totale TVD [m]","Profondità totale TVD [m]","Total depth TVD [m]"
 "total_depth_tvd_qt","+/- Endteufe TVD [m]","+/- Profondeur totale TVD [m]","+/- profondità totale TVD [m]","+/- Total depth TVD [m]"
 "totaldepth","Bohrendteufe MD [m]","Profondeur totale MD [m]","Profondità totale MD [m]","Total depth MD [m]"
 "type","Typ","Type","Tipo","Type"
