@@ -96,11 +96,11 @@
 20114004,"ibor114",4,"0,5 m",,"0,5 m",,"0,5 m",,"0,5 m",,,,
 20114005,"ibor114",5,"0,1 m",,"0,1 m",,"0,1 m",,"0,1 m",,,,
 20114006,"ibor114","r","rekonstruiert",,"recomposé",,"ricostruito",,"reconstructed",,,,
-20117001,"ibor117","OKT","Oberkante Terrain ",,"niveau du terrain",,"livello del terreno",,"ground surface",,,,
-20117002,"ibor117","ROK","Rohroberkante",,"bord supérieur du tubage",,"bordo superiore della tubatura",,"well head",,,,
-20117003,"ibor117","ROT","Rotary Table",,"rotary table",,"rotary table",,"rotary table",,,,
-20117004,"ibor117","SD","Schachtdeckel",,"convercle de regard",,"tombino",,"cover",,,,
-20117005,"ibor117","a","anderes",,"autre",,"altro",,"other ",,,,
+20117001,"ibor117","OKT","Oberkante Terrain",,"niveau du terrain",,"quota livello del terreno",,"ground surface",,,,
+20117002,"ibor117","ROK","Rohroberkante",,"bord supérieur du tubage",,"quota superiore della tubazione",,"casing top",,,,
+20117003,"ibor117","ROT","Rotary Table",,"rotary table",,"tavola rotary",,"rotary table",,,,
+20117004,"ibor117","SD","Schachtdeckel",,"couvercle de regard",,"tombino di protezione del pozzo",,"manhole cover",,,,
+20117005,"ibor117","a","anderes",,"autre",,"altro",,"other",,,,
 20117006,"ibor117","kA","keine Angaben",,"sans indication",,"senza indicazioni",,"not specified",,,,
 20407001,"icon407","ZH","Zürich",,"Zurich",,"Zurigo",,"Zurich",,,,
 20407002,"icon407","BE","Bern ",,"Berne",,"Berna",,"Bern",,,,
@@ -2386,3 +2386,8 @@
 25000310,"fill101",,"Packer",,"packer",,"packer",,"packer",,,,
 25000311,"fill101",,"anderes",,"autre",,"altro",,"other ",,,,
 25000312,"fill101",,"keine Angaben",,"sans indication",,"senza indicazioni",,"not specified",,,,
+30000015,"gradation",,"sehr gut sortiert",,"très bien trié",,"molto ben classato",,"very well-sorted"
+30000016,"gradation",,"gut sortiert",,"bien trié",,"ben classato",,"well sorted"
+30000017,"gradation",,"mässig sortiert",,"moyennement trié",,"moderatamente classato",,"moderately sorted"
+30000018,"gradation",,"schlecht sortiert",,"mal trié",,"mal classato",,"poorly sorted"
+30000019,"gradation",,"sehr schlecht sortiert",,"très mal trié",,"molto mal classato",,"very poorly sorted"
