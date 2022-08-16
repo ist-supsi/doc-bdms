@@ -298,7 +298,7 @@
 "todepth","bis Tiefe MD [m]","jusqu'à la profondeur MD  [m]","fino alla profondità MD [m]","to depth MD [m]"
 "todiameter","bis Durchmesser","jusqu'au diamètre","fino al diametro","to diameter"
 "toelevation","bis Höhe","jusqu'à l'altitude","fino alla quota","to elevation"
-"toMeters","bis [m]","à [m]","fino a [m]","to [m]"
+"toMeters","bis [m MD]","à [m MD]","fino a [m MD]","to [m MD]"
 "top_bedrock","Top Fels MD [m]","Toit du rocher MD [m]","Top substrato MD [m]","Top bedrock MD [m]"
 "top_bedrock_tvd","Top Fels TVD [m]","Toit du rocher TVD [m]","Top substrato TVD [m]","Top bedrock TVD [m]"
 "top_bedrock_tvd_qt","+/- Top Fels TVD [m]","+/- Toit du rocher TVD [m]","+/- Top del substrato roccioso TVD [m]","+/- Top bedrock TVD [m]"
