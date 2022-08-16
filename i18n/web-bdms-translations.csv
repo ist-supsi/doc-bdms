@@ -332,3 +332,4 @@
 "export_database","Export einer Arbeitsgruppe oder Bohrung in eine gezippte .gpkg-Datei","Exporter un groupe de travail ou un forage dans un fichier .gpkg zippé","Esportazione di un gruppo di lavoro o di una perforazione in un file .gpkg zippato","Export of a workgroup or borehole in a zipped .gpkg file"
 "import_database","Bitte importieren Sie eine gezippte .gpkg-Datei (nur swissforages-Exporte) einer Arbeitsgruppe oder Bohrung.","Veuillez importer un fichier .gpkg zippé (uniquement sous forme d’exports de swissforages) d'un groupe de travail ou d’un forage.","Per favore importare un file .gpkg zippato (valido unicamente per le esportazioni da swissforages) di un gruppo di lavoro o di una perforazione.","Please import a zipped .gpkg file (swissforages exports only) of a workgroup or borehole."
 "coordinates","Koordinaten","Coordonnées","Coordinate","Coordinates"
+"import","Importieren","Importer","Importare","Import"
